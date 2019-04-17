@@ -2,3 +2,16 @@ body {
   background-color: lightgray;
   color: black;
 }
+h1 {
+  background-color: lightgreen;
+}
+
+a {
+  color: blue;
+}
+
+.message {
+  color: green;
+  font-size: 20px;
+  text-align: center;
+}
